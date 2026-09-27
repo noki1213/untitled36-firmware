@@ -1,0 +1,10 @@
+file_format: "1"
+id: untitled36
+name: Untitled36
+type: shield
+url: https://github.com/noki1213/untitled36-firmware
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+  - pointer
+  - studio
